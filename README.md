@@ -1,4 +1,4 @@
 # git-boot-camp-20200619
 
 
-my name is PastaSoba
+私の名前は PastaSoba です
